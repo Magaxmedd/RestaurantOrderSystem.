@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\entities\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF3B1746-4EB9-3398-E384-663DF3550F0F}|RestaurantOrderSystem.PL\\RestaurantOrderSystem.PL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF3B1746-4EB9-3398-E384-663DF3550F0F}|RestaurantOrderSystem.PL\\RestaurantOrderSystem.PL.csproj|solutionrelative:restaurantordersystem.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.dal\\configurations\\menuitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC38520-2EFC-6DF5-F941-A077AE0D6BE1}|RestaurantOrderSystem.DAL\\RestaurantOrderSystem.DAL.csproj|solutionrelative:restaurantordersystem.dal\\configurations\\menuitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEC571C2-A6B5-1068-D8C4-4E0CF5D848EF}|RestaurantOrderSystem.BLL\\RestaurantOrderSystem.BLL.csproj|c:\\users\\asus\\source\\repos\\restaurantordersystem\\restaurantordersystem.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEC571C2-A6B5-1068-D8C4-4E0CF5D848EF}|RestaurantOrderSystem.BLL\\RestaurantOrderSystem.BLL.csproj|solutionrelative:restaurantordersystem.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\AppDbContextFactory.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T23:07:37.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T21:52:00.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.PL\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.PL\\Program.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:50:42.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:57:42.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\Order.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:56:54.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Entities\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Entities\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:54:06.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T21:31:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:57:28.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:56:06.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Configurations\\MenuItemConfiguration.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.DAL\\Configurations\\MenuItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.DAL\\Configurations\\MenuItemConfiguration.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.DAL\\Configurations\\MenuItemConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T22:57:17.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "RestaurantOrderSystem.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\RestaurantOrderSystem\\RestaurantOrderSystem.BLL\\Class1.cs",
+              "RelativeToolTip": "RestaurantOrderSystem.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T19:51:15.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
