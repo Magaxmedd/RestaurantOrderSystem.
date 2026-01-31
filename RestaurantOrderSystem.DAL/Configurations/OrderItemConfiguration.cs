@@ -7,7 +7,7 @@ using System.Text;
 
 namespace RestaurantOrderSystem.DAL.Configurations
 {
-    public class OrderItemConfiguration: IEntityTypeConfiguration<OrderItem>
+    public class OrderItemConfiguration : IEntityTypeConfiguration<OrderItem>
     {
         public void Configure(EntityTypeBuilder<OrderItem> builder)
         {
@@ -18,13 +18,12 @@ namespace RestaurantOrderSystem.DAL.Configurations
             builder.Property(x => x.Count)
                    .IsRequired();
 
-            builder.HasOne(x => x.MenuItem)
-                   .WithMany()
-                   .HasForeignKey(x => x.MenuItemId);
-
             builder.HasOne(x => x.Order)
                    .WithMany(x => x.OrderItems)
                    .HasForeignKey(x => x.OrderId);
+            builder.HasOne(x => x.MenuItem)
+                     .WithMany()
+                     .HasForeignKey(x => x.MenuItemId);
         }
     }
 }

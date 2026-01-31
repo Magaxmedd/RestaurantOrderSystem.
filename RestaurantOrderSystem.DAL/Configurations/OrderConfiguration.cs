@@ -7,7 +7,7 @@ using System.Text;
 
 namespace RestaurantOrderSystem.DAL.Configurations
 {
-    public class OrderConfiguration: IEntityTypeConfiguration<Order>
+    public class OrderConfiguration : IEntityTypeConfiguration<Order>
     {
         public void Configure(EntityTypeBuilder<MenuItem> builder)
         {
@@ -20,7 +20,7 @@ namespace RestaurantOrderSystem.DAL.Configurations
                    .HasMaxLength(100);
 
             builder.HasIndex(x => x.Name)
-                   .IsUnique(); 
+                   .IsUnique();
 
             builder.Property(x => x.Price)
                    .IsRequired()
@@ -29,6 +29,8 @@ namespace RestaurantOrderSystem.DAL.Configurations
             builder.Property(x => x.Category)
                    .IsRequired()
                    .HasMaxLength(50);
+
+
         }
 
         public void Configure(EntityTypeBuilder<Order> builder)
@@ -37,3 +39,4 @@ namespace RestaurantOrderSystem.DAL.Configurations
         }
     }
 }
+

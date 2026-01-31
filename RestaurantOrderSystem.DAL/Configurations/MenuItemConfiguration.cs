@@ -9,6 +9,7 @@ namespace RestaurantOrderSystem.DAL.Configurations
 {
     public class MenuItemConfiguration: IEntityTypeConfiguration<MenuItem>
     {
+       
         public void Configure(EntityTypeBuilder<MenuItem> builder)
         {
             builder.ToTable("MenuItems");
@@ -24,11 +25,18 @@ namespace RestaurantOrderSystem.DAL.Configurations
 
             builder.Property(x => x.Price)
                    .IsRequired()
-                   .HasPrecision(10, 2);
+                   .HasPrecision(18, 2);
 
             builder.Property(x => x.Category)
                    .IsRequired()
                    .HasMaxLength(50);
+
+            builder.HasOne(x => x.Orderİtem)
+            .WithMany()
+            .HasForeignKey(x => x.OrderId)
+            .OnDelete(DeleteBehavior.Cascade);
+
+
         }
     }
 }
